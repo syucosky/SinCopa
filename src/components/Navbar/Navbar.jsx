@@ -25,14 +25,14 @@ function Navbar() {
           />
           sincopa_tallervocal
         </a>
-        <a href="https://wa.me/3593670" target="_blank" className="text-info">
+        <a href="https://wa.me/6217193" target="_blank" className="text-info">
           <img
             src={whatsappLogo}
             alt="Logo del Sitio"
             style={{ width: "25px", height: "auto" }}
             className="mx-1 img-fluid bg-light"
           />
-          221 356-3670
+          221 621-7193
         </a>
         <NavbarLinks/>
       </div>
